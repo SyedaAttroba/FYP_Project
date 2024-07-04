@@ -1,5 +1,5 @@
 # FYP_Project: Brain Tumor Segmentation and Overall Survival Prediction
-Overview
+##Overview##
 This project focuses on the segmentation of brain tumors using a 3D Unet model and predicts overall survival using an Ensemble Machine Learning approach. The dataset used for training and evaluation is the BraTS20 dataset, which provides MRI scans along with ground truth masks.
 
 Segmentation (3D Unet Model)
